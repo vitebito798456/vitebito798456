@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Vite 👋
 
 <!--
 **vitebito798456/vitebito798456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

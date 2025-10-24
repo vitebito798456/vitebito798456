@@ -1,9 +1,16 @@
 ## Hi, I am Vite 👋
 
+Here are some ideas to get you started:
+
+- 👀 I’m interested in altseason
+- 🌱 I’m currently learning everything and nothing at the same time
+- 💞️ I’m looking to collaborate on operational tasks delegation and automation
+- 📫 How to reach me vitebito@gmail.com
+
 <!--
 **vitebito798456/vitebito798456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
